@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ibfday4workshop.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in ibfday4workshop.AppTest
