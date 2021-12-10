@@ -12,6 +12,8 @@ import java.io.*;
 
 
 public class Server {
+
+    //test 1 2 3
     public static void main(String[] args) throws IOException{
         ServerSocket ss = new ServerSocket(12345);
         Socket s = ss.accept(); //blocking call, this will wait till connection is attempted 
